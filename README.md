@@ -3,7 +3,7 @@
 An intelligent web-based whiteboard that solves complex mathematical problems, general knowledge questions, and even answers queries from images — instantly.
 
 ## 🚀 Live Demo
-Coming Soon...
+[Demo Video](https://drive.google.com/file/d/1h6xWon7Mj9cSvwTiB56Ve2UKkIzSsvBt/view)
 
 ---
 
