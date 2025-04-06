@@ -67,14 +67,11 @@ This project supports the following **United Nations Sustainable Development Goa
 ![image](https://github.com/user-attachments/assets/c31031be-512e-4fe0-a25f-e4c35e99074a)
 
 ### More such examples
-![image](https://github.com/user-attachments/assets/c7ebf469-ba69-48e3-a2ce-75757bbcf0c2)
-
-![image](https://github.com/user-attachments/assets/6d04a922-1e3f-4dca-b57a-ddc9ff2dabd1)
+![image](https://github.com/user-attachments/assets/c7ebf469-ba69-48e3-a2ce-75757bbcf0c2)     ![image](https://github.com/user-attachments/assets/7cef6b5c-9ed1-4cff-831c-e481fbdabcb8)
 
 
-> Images reflect real-time interaction with the app.
+![image](https://github.com/user-attachments/assets/6d04a922-1e3f-4dca-b57a-ddc9ff2dabd1)     ![image](https://github.com/user-attachments/assets/a383a417-2fcf-4e1b-b358-024a0dc7821a)
 
----
 
 ## 🧪 How to Run Locally
 
