@@ -1,5 +1,5 @@
 # 🧠 AI Whiteboard
-
+## Demo:- https://ai-whiteboard.onrender.com
 An intelligent web-based whiteboard that solves complex mathematical problems, general knowledge questions, and even answers queries from images — instantly.
 
 ## 🚀 Live Demo
