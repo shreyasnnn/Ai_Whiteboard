@@ -57,13 +57,20 @@ This project supports the following **United Nations Sustainable Development Goa
 ## 🖼️ Screenshots
 
 ### 🖊️ Drawing on the Whiteboard  
-![Drawing](./screenshots/drawing.png)
+![image](https://github.com/user-attachments/assets/d89436c9-39a7-44c0-8153-546b2bdb83c8)
 
-### 📷 Uploading an Image Question  
-![Uploading Image](./screenshots/upload.png)
+### 📷 Uploading an Image of Question
+![image](https://github.com/user-attachments/assets/667ac534-533f-463f-9347-14959a5f1a13)
 
-### 🤖 AI Answer Output  
-![Answer Output](./screenshots/answer.png)
+
+### 🤖 AI Answer  
+![image](https://github.com/user-attachments/assets/c31031be-512e-4fe0-a25f-e4c35e99074a)
+
+### More such examples
+![image](https://github.com/user-attachments/assets/c7ebf469-ba69-48e3-a2ce-75757bbcf0c2)
+
+![image](https://github.com/user-attachments/assets/6d04a922-1e3f-4dca-b57a-ddc9ff2dabd1)
+
 
 > Images reflect real-time interaction with the app.
 
